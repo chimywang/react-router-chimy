@@ -3,6 +3,8 @@ module.exports = {
         demo1:'./demo1/index.js',
         demo2:'./demo2/index.js',
         demo3:'./demo3/index.js',
+        demo4:'./demo4/index.js',
+        demo5:'./demo5/index.js',
     },
     output: {
         filename: './scripts/bundle_[name].js',

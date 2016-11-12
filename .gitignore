@@ -3,3 +3,4 @@
 .idea/
 *.map
 *-compiled.js
+/scripts/
